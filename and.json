@@ -1,0 +1,75 @@
+{
+  "caption": "and",
+  "gates": [
+    {
+      "x": "480",
+      "y": "210",
+      "direction": "0",
+      "inputCount": "2",
+      "outputCount": "1",
+      "logicFunction": "\"and\"",
+      "outputsInv": "[false]",
+      "inputsInv": "[false,false]"
+    }
+  ],
+  "outputs": [
+    {
+      "x": "600",
+      "y": "240",
+      "colr": "0"
+    }
+  ],
+  "inputs": [
+    {
+      "x": "375",
+      "y": "195",
+      "framecount": "-1",
+      "clock": "false",
+      "pos": 0
+    },
+    {
+      "x": "375",
+      "y": "315",
+      "framecount": "-1",
+      "clock": "false",
+      "pos": 1
+    }
+  ],
+  "wires": [
+    {
+      "x1": "390",
+      "y1": "240",
+      "x2": "480"
+    },
+    {
+      "x1": "390",
+      "y1": "210",
+      "y2": "240"
+    },
+    {
+      "x1": "390",
+      "y1": "270",
+      "x2": "480"
+    },
+    {
+      "x1": "390",
+      "y1": "270",
+      "y2": "330"
+    },
+    {
+      "x1": "540",
+      "y1": "240",
+      "x2": "600"
+    }
+  ],
+  "busses": [],
+  "conpoints": [],
+  "diodes": [],
+  "customs": [],
+  "labels": [],
+  "segDisplays": [],
+  "busWrappers": [],
+  "busUnwrappers": [],
+  "busInputs": [],
+  "decoders": []
+}
